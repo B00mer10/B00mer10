@@ -1,5 +1,5 @@
 
-## 👋 About Me  
+## #About_Me  
 Hi! I'm a **BCA student** passionate about **Data Analytics** and **Game Development**. I love exploring **Power BI, Excel, SQL, Python, Machine Learning, and AI**, learning through **YouTube tutorials** and hands-on projects. In my free time, I also experiment with **game development in Unity**.  
 
 ## 🚀 Skills & Tools  

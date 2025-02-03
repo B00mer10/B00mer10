@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**B00mer10/B00mer10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me  
+Hi! I'm a **BCA student** passionate about **Data Analytics** and **Game Development**. I love exploring **Power BI, Excel, SQL, Python, Machine Learning, and AI**, learning through **YouTube tutorials** and hands-on projects. In my free time, I also experiment with **game development in Unity**.  
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tools  
+- **Data Analytics**: Power BI, Excel, SQL  
+- **Programming**: Python  
+- **Machine Learning & AI**  
+- **Game Development**: Unity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect  
+- **LinkedIn**: linkedin.com/in/girish-sabale-1690a2344 
+- **GitHub**: https://github.com/B00mer10
+- **Email**: girishsabale0010@gmail.com 
+ 
+🚀 Always learning, always building!  

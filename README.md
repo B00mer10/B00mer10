@@ -180,9 +180,9 @@ Status: 🔄 Always Upgrading
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-SEND_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-JOIN_CREW-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girishsabale/)
+[![Email](https://img.shields.io/badge/Email-SEND_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girishsabale0010@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-JOIN_CREW-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NwMwuj6qzn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-VIEW_WORK-FF003C?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourportfolio.com)
 
 </div>

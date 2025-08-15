@@ -1,7 +1,7 @@
 # 🔥 Girish Sabale
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&multiline=true&width=600&height=100&lines=WELCOME%2C+SAMURAI;Play+around+until+you+figure+it+out" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Gear+up%2C+Samurai+-+grab+your+hottest+iron+.;Time+to+be+a+legend+." alt="Typing SVG" />
 </div>
 
 ---
